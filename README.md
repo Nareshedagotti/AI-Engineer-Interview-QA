@@ -51,11 +51,11 @@ Modern AI roles are evolving incredibly fast. These interview guides are built f
 
 | Topic | Questions | Level | Link |
 |---|---|---|---|
-| RAG — Retrieval-Augmented Generation | 40+ | Basic - Intermediate | [Open](./RAG/) |
-| Agentic AI | 40+ | Basic - Intermediate | [Open](./AgenticAI/) |
-| LLMs — Large Language Models | 40+ | Basic - Intermediate | [Open](./LLMs/) |
-| Transformers Architecture | 40+ | Basic - Intermediate | [Open](./Transformers/) |
-| FastAPI for AI Engineers | 40+ | Basic - Intermediate | [Open](./FastAPI/) |
+| RAG — Retrieval-Augmented Generation | 40+ | Basic - Intermediate | [Open]([./RAG/](https://github.com/Nareshedagotti/AI-Engineer-Interview-QA/blob/main/RAG_QA.md)) |
+| Agentic AI | 40+ | Basic - Intermediate | [Open]([./AgenticAI/](https://github.com/Nareshedagotti/AI-Engineer-Interview-QA/blob/main/Agentic_AI_Interview_Questions.md)) |
+| LLMs — Large Language Models | 40+ | Basic - Intermediate | [Open]([./LLMs/](https://github.com/Nareshedagotti/AI-Engineer-Interview-QA/blob/main/LLM_Interview_Questions.md)) |
+| Transformers Architecture | 40+ | Basic - Intermediate | [Open]([./Transformers/](https://github.com/Nareshedagotti/AI-Engineer-Interview-QA/blob/main/TRANSFORMERS_QA.md)) |
+| FastAPI for AI Engineers | 40+ | Basic - Intermediate | [Open]([./FastAPI/](https://github.com/Nareshedagotti/AI-Engineer-Interview-QA/blob/main/FASTAPI_QA.md)) |
 
 ### What Each Collection Covers
 
