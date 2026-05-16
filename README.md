@@ -22,16 +22,6 @@
 
 ---
 
-## Support This Repo
-
-If this repository helps your interview prep:
-
-⭐ **Star the repo**: helps others discover it  
-🍴 **Fork it**: keep your own copy to study  
-📢 **Share it**: with anyone preparing for AI roles
-
----
-
 ## Who Is This For?
 
 Modern AI roles are evolving incredibly fast. These interview guides are built for real industry demands, not outdated job descriptions.
@@ -51,11 +41,11 @@ Modern AI roles are evolving incredibly fast. These interview guides are built f
 
 ---
 
+# Free Interview Collections
+
 <p align="center">
   <img src="assets/free-interview-banner.png" alt="Free Interview Questions" width="100%"/>
 </p>
-
-## Free Interview Collections
 
 > 200+ questions. Free. No signup required.
 
@@ -69,29 +59,22 @@ Modern AI roles are evolving incredibly fast. These interview guides are built f
 
 ### What Each Collection Covers
 
-**RAG** — Retrieval pipelines, vector stores, chunking strategies, embedding models, reranking, and production RAG failure modes.
+**RAG**: Retrieval pipelines, vector stores, chunking strategies, embedding models, reranking, and production RAG failure modes.
 
-**Agentic AI** — Agent architectures, tool use, planning loops, multi-agent coordination, memory systems, and real-world tradeoffs.
+**Agentic AI**: Agent architectures, tool use, planning loops, multi-agent coordination, memory systems, and real-world tradeoffs.
 
-**LLMs** — Pretraining objectives, fine-tuning, RLHF, context windows, tokenization, hallucination, and inference optimization.
+**LLMs**: Pretraining objectives, fine-tuning, RLHF, context windows, tokenization, hallucination, and inference optimization.
 
-**Transformers** — Attention mechanisms, encoder-decoder design, positional encoding, layer normalization, and model variants (BERT, GPT, T5).
+**Transformers**: Attention mechanisms, encoder-decoder design, positional encoding, layer normalization, and model variants (BERT, GPT, T5).
 
-**FastAPI** — Async endpoints, Pydantic validation, background tasks, dependency injection, streaming responses, and AI service deployment.
-
----
-
-## Repo Preview
-
-<!-- Add a screenshot of your Q&A folder/file structure once live -->
+**FastAPI**: Async endpoints, Pydantic validation, background tasks, dependency injection, streaming responses, and AI service deployment.
 
 ---
+# Premium Interview Kits
 
 <p align="center">
   <img src="assets/premium-kits-banner.png" alt="Premium Interview Kits" width="100%"/>
 </p>
-
-## Premium Interview Kits
 
 Structured, deep preparation for intermediate to senior AI engineering roles. Each kit is organized by topic, difficulty, and interview stage — built for candidates who want to go beyond surface-level answers.
 
@@ -148,7 +131,7 @@ If you would like to add more interview questions, fix an answer, or improve for
 
 ## About PracticAI
 
-[PracticAI](https://practicai.in) creates structured, interview-focused content for AI engineers. The goal is to give you the questions that actually get asked, with answers that show you understand the system — not just the definition.
+[PracticAI](https://practicai.in) creates structured, interview-focused content for AI engineers. The goal is to give you the questions that actually get asked, with answers that show you understand the system, not just the definition.
 
 Follow for new questions, system design breakdowns, and interview tips:
 
