@@ -1,4 +1,4 @@
-# 🤖 LLM Interview Questions & Answers
+# LLM Interview Questions & Answers
 ---
 
 ## 📌 How to Use This Guide
